@@ -3,10 +3,14 @@
 
 ## Analysis Questions
 1: What are the number of houses for sale by Acreage Range?
+
 2: What are the number of houses for sale by City?
+
 3: What are the average prices per city?
+
 4: What are the total acreage by city? 
 5: What is the land value by city? 
+
 6: What is the Building value by city?
 7: What is the sale price by land use? 
 8: What is the sale price by number of bedrooms?
