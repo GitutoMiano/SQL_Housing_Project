@@ -1,4 +1,4 @@
-
+This is a housing datasets and I am using it to come up with insights to be used by the field personnel to better their sales and marketing strategies in the different Cities.
 
 
 ## Analysis Questions
